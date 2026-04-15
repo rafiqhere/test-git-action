@@ -28,4 +28,4 @@ jobs:
           context: ./action-server
           file: ./action-server/Dockerfile
           push: true
-          tags: rafiqhere/test-git-action:latest
+          tags: rafiqhere/test-git-action:action-server
